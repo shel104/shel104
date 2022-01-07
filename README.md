@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning ... python,javascript
+- 🌱 I’m currently learning ... python, javascript & READTJS & TS
 
 <!--
 **shel104/shel104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
