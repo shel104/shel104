@@ -5,6 +5,11 @@
 - 🤔 I’m looking for help with JS&TS
 - 💬 Ask me about anything
 - We can only see a short distance ahead, but we can see plenty there that needs to be done.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shel104)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 <!--
 
